@@ -4,4 +4,3 @@ def fib(n):
     else:
         # fn = fn-1 + fn-2
         return fib(n-1) + fib(n-2)
-fib(8)
