@@ -1,6 +1,5 @@
 Explicacion CPU
 
-
 La unidad central de procesamiento CPU (conocida por las siglas CPU, del inglés Central Processing Unit) o procesador es un componente del hardware dentro de un computador, teléfonos inteligentes y otros dispositivos programables.
 
 Su trabajo es interpretar las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y externas (provenientes de la unidad de entrada/salida). Su diseño y avance ha variado notablemente desde su creación, aumentando su eficiencia y potencia, y reduciendo aspectos como el consumo de energía y el costo.
